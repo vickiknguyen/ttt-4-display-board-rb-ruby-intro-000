@@ -2,5 +2,5 @@ board = [" "," "," "," "," "," "," "," "," "]
 display_board(board)
 
   def display_board
-    puts "#{board}"
+    puts "capture_puts{display_board(board)}"
   end
